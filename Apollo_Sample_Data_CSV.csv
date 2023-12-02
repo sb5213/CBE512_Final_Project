@@ -1,8 +1,4 @@
-,,,,,,,,,,,,,,,,,,,
-APOLLO SAMPLE DATA,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
 Sample,Si02 ,Al2O3,Cao,MnO ,MgO,Na2O,K2O,TiO2,P205,Amorphous Content,W/FA,Alk/FA,Fly Ash,Sodium Silicate,Sodium Hydroxide,Water,Slump Flow,Water Percentage in Solution,CS (oven)
-Unitless,%,%,%,%,%,%,%,%,%,%,Unitless,Unitless,kg. m-3,kg. m-3,kg. m-3,kg. m-3,Inch,%,MPa
 Apollo 11,42.4,13.6,11.9,0.2,7.8,0.47,0.16,7.8,0.05,35.9,0.22,0.35,300,75.00,35,66.25,NA,63.1,NA
 Apollo 12,46.3,12.9,10.7,0.22,9.3,0.47,0.16,3,0.4,28.6,0.22,0.35,300,75.00,35,66.25,NA,63.1,NA
 Apollo 14,48.1,17.4,10.7,0.14,9.4,0.7,0.55,1.7,0.51,37.2,0.22,0.35,300,75.00,35,66.25,NA,63.1,NA
